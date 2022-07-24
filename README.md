@@ -15,9 +15,9 @@ My project is to create a watering system which waters plant as soil becames dry
 first the soilmoisture sensor will give voltage as output depending on moisture of soil(high for dry sand and low for moisture soil). then if it says soil is dry then water pump is turn on to water plants for 1s and after 2s moisture is again checked and it continues to water till soil is dry(not upto the mark for vegetation).
 
 ##  file description
-### demo
+### demo.mp4
 it contains video showing working model
-### video1
+### video1 (1).mp4
 it contains video showing circuit connection
-### code1
+### code1.ino
 contains code(.ino file) used to run project.
